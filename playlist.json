@@ -25,7 +25,7 @@
     "launched": "2016-07-28",
     "closed": "2020-05-31",
     "replaced_by": "",
-    "website": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1721339801/ei/OTuZZqrCI4CusfIPwcKSoAY/ip/52.238.24.183/id/8HyVpgMbHe4.1/itag/301/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D299/rqh/1/hdlc/1/hls_chunk_host/rr5---sn-o097znzk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/NO7bAesXX48byLafHVymx6g7OhneuOs5dVTXJMK_9PUxyYuSiUIYZsVYvcmdxw0/vprv/1/playlist_type/DVR/mh/b6/mm/44/mn/sn-o097znzk/ms/lva/mv/u/mvi/5/pl/16/dover/11/pacing/0/keepalive/yes/mt/1721317887/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIhAMjDTpHt1qtQGyJL1ZlqBWEhddcBdUlM4NOHT866KFtTAiB2q-7919R_QojEVJXg_L5oS3BXkG0OqiEGP1suHdKU2g%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHlkHjAwRAIgZm_hT-BkACCnY2HGwB1H3NPjZtVfrq3l25DU-g0Yw_ACIFuuHgUaWMpaLvaggGRmOE5grxuN3nt63u-1lkpxZ5Dt/playlist/index.m3u8",
+    "website": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1721340884/ei/dD-ZZsXuFu2GkucPwIaD6AI/ip/74.249.14.182/id/8HyVpgMbHe4.1/itag/301/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D299/rqh/1/hdlc/1/hls_chunk_host/rr1---sn-p5qlsndr.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/NO7bAQEOR0lpd3ZTktlw5pyvWNxkAs0tHzB_MLxo5aXw4Scvx_6g3TZMGe6wcCM/vprv/1/playlist_type/DVR/mh/b6/mm/44/mn/sn-p5qlsndr/ms/lva/mv/u/mvi/1/pl/22/dover/11/pacing/0/keepalive/yes/mt/1721318707/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIgVVfBAltIg77gGC7uTafeiDa1Vkj-gRVOc4FDyVNxX74CIQCSCI2D479DDu9tjLmp7b3yLzREGoRlBAmAlQwlHcwS6A%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHlkHjAwRAIgb1JNLnJIsANK2soEKTX_3Hvb9YBxzvXJkPOBqgRbpwQCIBxc5B7p7gl_-Xz8fovMVrX8yKNHZIyeqfyG0wVFLRng/playlist/index.m3u8",
     "logo": "https://yt3.googleusercontent.com/ytc/AIdro_nOJ3IP36DP0X9btT0E5j3180hUGagHMDV_IP9p26erejs=s160-c-k-c0x00ffffff-no-rj"
   },
   {
@@ -56,5 +56,34 @@
     "replaced_by": "",
     "website": "https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Tvrain.svg/274px-Tvrain.svg.png"
+  },
+  {
+    "id": "",
+    "name": "Lofi Girl Radio",
+    "alt_names": [
+      ""
+    ],
+    "network": "",
+    "owners": [
+      ""
+    ],
+    "country": "AR",
+    "subdivision": "",
+    "city": "Buenos Aires",
+    "broadcast_area": [
+      ""
+    ],
+    "languages": [
+      "spa"
+    ],
+    "categories": [
+      "Argentina"
+    ],
+    "is_nsfw": false,
+    "launched": "2016-07-28",
+    "closed": "2020-05-31",
+    "replaced_by": "",
+    "website": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1721340886/ei/dj-ZZpSYEO2GkucPwIaD6AI/ip/74.249.14.182/id/_uMuuHk_KkQ.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr3---sn-p5qs7n6d.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/NO7bASLUCB30sA6nAfMTpy_8Fc2NJ9LdW2h1fS_pfoZsknth2WbKEeoRLBp6H2A/vprv/1/playlist_type/DVR/mh/gu/mm/44/mn/sn-p5qs7n6d/ms/lva/mv/u/mvi/3/pl/22/dover/11/pacing/0/keepalive/yes/mt/1721318707/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIhAMDyvSPKRT3_ZUi8Hd0Is1TyHD3qxiDrLx6AudxyiFBpAiAiPdKLLNmuiaCpPJQUtZNkOxei_seIw-tw2dAWrVKt2A%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHlkHjAwRAIgLKZ-xebQ0zi7CtE5DDF_GfKtA0AYphduNwgciH5jH3cCIBl4L893vwNq7vqah6L9Gck9SilQEMqQvSL8p1bI7m5k/playlist/index.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png"
   }
 ]
