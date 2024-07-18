@@ -1,0 +1,23 @@
+
+######################################################################
+#  _       _                                          _              #
+# (_)     | |                                        | |             # 
+#  _ _ __ | |___   __  __ _  ___ _ __   ___ _ __ __ _| |_ ___  _ __  #
+# | | '_ \| __\ \ / / / _` |/ _ \ '_ \ / _ \ '__/ _` | __/ _ \| '__| #
+# | | |_) | |_ \ V / | (_| |  __/ | | |  __/ | | (_| | || (_) | |    #
+# |_| .__/ \__| \_/   \__, |\___|_| |_|\___|_|  \__,_|\__\___/|_|    #
+#   | |         ______ __/ |                                         #
+#   |_|        |______|___/                                          #
+#                                                                    #
+#                                                                    #
+######################################################################
+
+#EXTM3U
+#EXTINF:-1 group-title="Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Vorterix.jpg" tvg-id="", Vorterix
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1721337398/ei/1jGZZqu6O-CU2_gPjMmj-Ac/ip/172.183.112.121/id/fDx8onwsM7Q.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr5---sn-vgqsknls.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/NO7bAaJ38k5fcrbCY2mXx3x1qdgqEd3RiMJZafd_X5pacdyMJBJqTfdvap9OQ4k/vprv/1/playlist_type/DVR/mh/zj/mm/44/mn/sn-vgqsknls/ms/lva/mv/u/mvi/5/pl/18/dover/11/pacing/0/keepalive/yes/mt/1721314306/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRAIhAMHFGnJ2SxN-94v9-_wswcx-qGP8bELdlRW89b8e14XIAh854oFjeYMmOkL4r1ctNPhB5-5RbCCeXKXsSzm19kCH/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHlkHjAwRgIhAIWB2-03F8iFms76R8doO_emhIf6TtaUOK1_eqH4R3HYAiEA6v7E9dnHaE6sOXPuZIv5qDK8gwiiutO4ybjooYbhjQM%3D/playlist/index.m3u8
+
+#EXTINF:-1 group-title="Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" tvg-id="", America TV
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1721337400/ei/2DGZZpWBD4yilu8PvMauiAo/ip/172.183.112.121/id/zcWXboTnous.3/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr3---sn-vgqsknld.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/gcr/us/spc/NO7bATxB9JyNb86QkqkGgTsQ8QVM1vXklx4WdmgLM5T1b2GQqYAoGiQjjNXTVyI/vprv/1/playlist_type/DVR/mh/sM/mm/44/mn/sn-vgqsknld/ms/lva/mv/u/mvi/3/pl/18/dover/11/pacing/0/keepalive/yes/mt/1721314306/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,gcr,spc,vprv,playlist_type/sig/AJfQdSswRAIgNu1VILn8f7dJP5zHN403aWoGdFgw6s7ttBGmQGjxxC4CICQ53kBGO1zuMe8TrGxgFGxSLKE0xMBYxKOv5HGrsdKe/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHlkHjAwRQIgTFefG9Yz4H6BsFfG9JNFjCMA0oU5h1T_8BWStfaGuwQCIQD7h1lv3KPpIecQRmdw50nyzVIep7-A9G2j-QEKZ-LuLw%3D%3D/playlist/index.m3u8
+
+#EXTINF:-1 group-title="Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" tvg-id="", Lofi Girl Radio
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1721337401/ei/2TGZZqSSHN6O2_gP4diFkAQ/ip/172.183.112.121/id/_uMuuHk_KkQ.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr5---sn-vgqsrn6e.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/NO7bAVDbMBmCDBv5e_-oKsnvcAbg54J81BDrUbfLWjXisW2b_OSUXArR_2kCKQA/vprv/1/playlist_type/DVR/mh/gu/mm/44/mn/sn-vgqsrn6e/ms/lva/mv/u/mvi/5/pl/18/dover/11/pacing/0/keepalive/yes/mt/1721314306/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRgIhANpgI8w3-KHxtovMh-DQHGhXDab1RJ-miBw25GgFYAqEAiEAi2Wch97HKf7um1fT6Zrfr-ZvOYHL7_UQjmMH-BxaDp0%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHlkHjAwRgIhAKRbqNaJhihzqAoUGfhim6OIoRpZ78UCDQLVrDrA0OhxAiEAo_qq7TxQLcZEmwJYygA77NQ49OPAh_2V7e-Nf_bQqZ0%3D/playlist/index.m3u8
