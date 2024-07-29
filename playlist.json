@@ -1,35 +1,6 @@
 [
   {
     "id": "",
-    "name": "\u0414\u043e\u0436\u0434\u044c Youtube",
-    "alt_names": [
-      ""
-    ],
-    "network": "",
-    "owners": [
-      ""
-    ],
-    "country": "AR",
-    "subdivision": "",
-    "city": "Buenos Aires",
-    "broadcast_area": [
-      ""
-    ],
-    "languages": [
-      "spa"
-    ],
-    "categories": [
-      "Russia"
-    ],
-    "is_nsfw": false,
-    "launched": "2016-07-28",
-    "closed": "2020-05-31",
-    "replaced_by": "",
-    "website": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1722256069/ei/ZTanZq2QKpObybgPhfqP8Ag/ip/172.183.112.115/id/H0jq8Iq1FzE.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr5---sn-vgqsknez.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/NO7bAfeGx3RpGB3V1OEE_B6mXpY5ztTV5iVv79DdxJTGfje-R58Pw3FyGy1R5tM/vprv/1/playlist_type/DVR/mh/8V/mm/44/mn/sn-vgqsknez/ms/lva/mv/u/mvi/5/pl/18/dover/11/pacing/0/keepalive/yes/mt/1722234276/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRgIhAIvN5dDgMww3YWlQdzZu-_8vJ5vffE1Nto5GLDdQIUI4AiEAyV_CfRdyfmmymYDrkDl6XVRDJWuqsytLzWrLCAE6JDw%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AGtxev0wQwIfRfU8wCY-6XFvLrKQ03w5qmRozzJumbJquB-H5C5DbgIgKYdoaB1saFtz3_14vPJF4KQg3PvmAldG6llS80K-aNI%3D/playlist/index.m3u8",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Tvrain.svg/274px-Tvrain.svg.png"
-  },
-  {
-    "id": "",
     "name": "Lofi Girl Radio",
     "alt_names": [
       ""
@@ -54,7 +25,7 @@
     "launched": "2016-07-28",
     "closed": "2020-05-31",
     "replaced_by": "",
-    "website": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1722256070/ei/ZjanZrbdG6uV2_gPqbXSwQw/ip/172.183.112.115/id/_uMuuHk_KkQ.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr5---sn-vgqsrn6e.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/NO7bAcrvCTm6jG3c7qvkUitGdKLoMfaq0688AF7Qm8XVEQPEdWX-18VqNt-uut4/vprv/1/playlist_type/DVR/mh/gu/mm/44/mn/sn-vgqsrn6e/ms/lva/mv/u/mvi/5/pl/18/dover/11/pacing/0/keepalive/yes/mt/1722233550/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIhAMhp-8gVrVdb8ZMayjm9apkSx7gfmlPJvJ4Q5EHC_vV8AiBSBtuzODDwvrlIGXAX8dNosvFYT0M8WVeWBmzlnc9gcQ%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AGtxev0wRQIgXyX0cdKOF20_WEtcuNP3e6QbSM5pePAezN6W2i7KxhkCIQCAeRR5stFBw97SEivmaniZKpFpO-xFhsJq8le-e-hyVg%3D%3D/playlist/index.m3u8",
+    "website": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1722266521/ei/OV-nZojbH9SHkucPieeG0AM/ip/20.109.39.179/id/_uMuuHk_KkQ.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr1---sn-mb.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/NO7bARaX4ZnMor7KRuWpNHathnRsTlUqQp2BcPEStwKjiiUA5CDsbHGyJBvkv1M/vprv/1/playlist_type/DVR/mh/gu/mm/44/mn/sn-mb/ms/lva/mv/u/mvi/1/pl/16/dover/11/pacing/0/keepalive/yes/mt/1722244138/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRgIhAOyUnG2Hm8FeX8UrS_60a8mZUs11Y1JngZy8Q53eVkmAAiEAwuHcUj_hwo6PuOXFRK5HwJeDMaOen7PTa0x2vyOvw4o%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AGtxev0wRQIhAJdXt5PGV18LW9umiyC0D6tyvIxvZ6h0j_ifxejJslgvAiBl3WPd9fcKWBV8tKCJoHasc1OM9vQSV2EtlMCwaQAwnw%3D%3D/playlist/index.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png"
   }
 ]
