@@ -1,35 +1,6 @@
 [
   {
     "id": "",
-    "name": "Coulthard_Channel",
-    "alt_names": [
-      ""
-    ],
-    "network": "",
-    "owners": [
-      ""
-    ],
-    "country": "AR",
-    "subdivision": "",
-    "city": "Buenos Aires",
-    "broadcast_area": [
-      ""
-    ],
-    "languages": [
-      "spa"
-    ],
-    "categories": [
-      "Russian"
-    ],
-    "is_nsfw": false,
-    "launched": "2016-07-28",
-    "closed": "2020-05-31",
-    "replaced_by": "",
-    "website": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1722655129/ei/OU2tZub_MZnzsfIPm_m7wA4/ip/52.234.33.250/id/h2loiGy3J8g.1/itag/301/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D299/rqh/1/hdlc/1/hls_chunk_host/rr1---sn-o097znsd.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/NO7bAdUx19uSKE5-gfFI199FjVOaqwb8WdveNUZKsux2C_aoz29wjCf0SbuHpu8/vprv/1/playlist_type/DVR/initcwndbps/2867500/mh/km/mm/44/mn/sn-o097znsd/ms/lva/mv/m/mvi/1/pl/16/dover/11/pacing/0/keepalive/yes/mt/1722633158/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRgIhAIgPTKGpnljA61eJwe2TBI_HOacxodPJTEW5Y1PJbl9jAiEAk63cjfqqCVeLDS9pHBV9bXcjkNnIOhVljB1Fo4lYKF0%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AGtxev0wRQIhAMfUOJVd9PcKIjkSQfONQwvdaCmPkT2rpz1knMEPISyjAiA8lxpbj8bsXyZqlSFUQuns_Sg0Vuo97CwizwSE0S9Fjg%3D%3D/playlist/index.m3u8",
-    "logo": "https://yt3.googleusercontent.com/ytc/AIdro_nOJ3IP36DP0X9btT0E5j3180hUGagHMDV_IP9p26erejs=s160-c-k-c0x00ffffff-no-rj"
-  },
-  {
-    "id": "",
     "name": "Lofi Girl Radio",
     "alt_names": [
       ""
@@ -54,7 +25,7 @@
     "launched": "2016-07-28",
     "closed": "2020-05-31",
     "replaced_by": "",
-    "website": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1722655131/ei/O02tZpe5AaXDsfIPifHH8Ak/ip/52.234.33.250/id/_uMuuHk_KkQ.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr1---sn-o097znsr.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/NO7bAcPahNwQS-wNxZre2yyPIP02WqCQbBbTzfI-Z3pVNIO4Bbdm7M4MLI44P_8/vprv/1/playlist_type/DVR/initcwndbps/1431250/mh/gu/mm/44/mn/sn-o097znsr/ms/lva/mv/m/mvi/1/pl/16/dover/11/pacing/0/keepalive/yes/mt/1722633158/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIgQCfJrgrWZnKGjyIcd3_hihkCiVdyMVImu9QYdr6LdpsCIQC92AHBZ01EmHipEfUvIY_WCBE_WIJmEAsiVYZ2nPn8yQ%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AGtxev0wRQIhAMZmkqFdFuLtDGUrluC7Czy5QRLlcJ9Hf4m4-CNbhKmmAiBgHTRMEYrHptsKZv_rYSx5QNnrXUKvqy4dICwPtaUV9A%3D%3D/playlist/index.m3u8",
+    "website": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1722669858/ei/woatZv-yCIe1kucPw-2w6Ao/ip/172.190.111.244/id/_uMuuHk_KkQ.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr3---sn-p5qs7n6d.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/NO7bAQEW68IgwSQw3gWyF8El3TJjMqpDtU8jlhEJ6a1ow1y_14ZbSMWntQ6VN6Y/vprv/1/playlist_type/DVR/mh/gu/mm/44/mn/sn-p5qs7n6d/ms/lva/mv/u/mvi/3/pl/15/dover/11/pacing/0/keepalive/yes/mt/1722646873/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRgIhALTdG44eFZugAl3bTsu_cVQKPcVa4x9yyvddJT3B77VgAiEArunUeeC2vIxBNociyrUbL9lmC4FPjdpcTSfAA-QD5vY%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AGtxev0wRQIgFo64yNh_P-iIGZLs6utORbYfUX2RA04-vUZI4c-cMtsCIQDi3Obzp9_h4wnIgISeNAywIl65Edi3qQ1f_DBI7ig4JQ%3D%3D/playlist/index.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png"
   }
 ]
