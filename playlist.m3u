@@ -13,3 +13,5 @@
 ######################################################################
 
 #EXTM3U
+#EXTINF:-1 group-title="Russia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Tvrain.svg/274px-Tvrain.svg.png" tvg-id="", Дождь
+https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8
