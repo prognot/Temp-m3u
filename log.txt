@@ -1,3 +1,3 @@
-2025-01-21 12:41:42,945 - debug - URL Streams https://www.youtube.com/@Coulthard_Channel/live: {}
-2025-01-21 12:41:43,221 - debug - URL Streams https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8: <Response [200]>
-2025-01-21 12:41:43,787 - debug - URL Streams https://www.youtube.com/@LofiGirl/live: {}
+2025-01-21 15:23:24,057 - debug - URL Streams https://www.youtube.com/@Coulthard_Channel/live: {}
+2025-01-21 15:23:24,278 - debug - URL Streams https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8: <Response [200]>
+2025-01-21 15:23:24,824 - debug - URL Streams https://www.youtube.com/@LofiGirl/live: {}
