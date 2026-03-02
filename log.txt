@@ -1,3 +1,3 @@
-2026-03-02 18:58:13,263 - debug - URL Streams https://www.youtube.com/@Coulthard_Channel/live: {}
-2026-03-02 18:58:14,012 - error - URL Error https://www.youtube.com/watch?v=QvYlXT8nWcE: Unable to open URL: https://www.youtube.com/youtubei/v1/player (400 Client Error: Bad Request for url: https://www.youtube.com/youtubei/v1/player?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8)
-2026-03-02 18:58:14,890 - debug - URL Streams https://www.youtube.com/@LofiGirl/live: {}
+2026-03-02 21:39:36,580 - debug - URL Streams https://www.youtube.com/@Coulthard_Channel/live: {}
+2026-03-02 21:39:37,587 - error - URL Error https://www.youtube.com/watch?v=QvYlXT8nWcE: Unable to open URL: https://www.youtube.com/youtubei/v1/player (400 Client Error: Bad Request for url: https://www.youtube.com/youtubei/v1/player?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8)
+2026-03-02 21:39:38,330 - debug - URL Streams https://www.youtube.com/@LofiGirl/live: {}
