@@ -1,3 +1,4 @@
-2026-03-06 15:44:41,923 - debug - URL Streams https://www.youtube.com/@Coulthard_Channel/live: {}
-2026-03-06 15:44:43,001 - debug - URL Streams https://www.youtube.com/watch?v=QvYlXT8nWcE: {}
-2026-03-06 15:44:43,987 - debug - URL Streams https://www.youtube.com/@LofiGirl/live: {}
+2026-03-06 18:55:52,502 - debug - URL Streams https://www.youtube.com/@Coulthard_Channel/live: {}
+2026-03-06 18:55:53,512 - error - URL Error https://www.youtube.com/watch?v=QvYlXT8nWcE: Unable to validate result: ValidationError(dict):
+  Key 'videoDetails' not found in <{'responseContext': {'serviceTrackingParams': [{'servic...>
+2026-03-06 18:55:54,291 - debug - URL Streams https://www.youtube.com/@LofiGirl/live: {}
