@@ -1,4 +1,3 @@
-2026-03-06 18:55:52,502 - debug - URL Streams https://www.youtube.com/@Coulthard_Channel/live: {}
-2026-03-06 18:55:53,512 - error - URL Error https://www.youtube.com/watch?v=QvYlXT8nWcE: Unable to validate result: ValidationError(dict):
-  Key 'videoDetails' not found in <{'responseContext': {'serviceTrackingParams': [{'servic...>
-2026-03-06 18:55:54,291 - debug - URL Streams https://www.youtube.com/@LofiGirl/live: {}
+2026-03-06 21:35:50,083 - debug - URL Streams https://www.youtube.com/@Coulthard_Channel/live: {}
+2026-03-06 21:35:50,564 - error - URL Error https://www.youtube.com/watch?v=QvYlXT8nWcE: Unable to open URL: https://www.youtube.com/watch?v=QvYlXT8nWcE (429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://www.youtube.com/watch%3Fv%3DQvYlXT8nWcE&q=EgQ0moNjGLaRrc0GIjAGEWv0vbUuQBtpWNXxunti-GRjaCCfNfH9sYWEfUPZF-yO_5h6rp9CDNCP3DANEfkyAnJSWgFD)
+2026-03-06 21:35:51,459 - debug - URL Streams https://www.youtube.com/@LofiGirl/live: {}
