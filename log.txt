@@ -1,3 +1,3 @@
-2026-07-31 19:42:42,521 - debug - URL Streams https://www.youtube.com/@Coulthard_Channel/live: {}
-2026-07-31 19:42:43,018 - error - URL Error https://www.youtube.com/watch?v=QvYlXT8nWcE: Unable to open URL: https://www.youtube.com/watch?v=QvYlXT8nWcE (429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://www.youtube.com/watch%3Fv%3DQvYlXT8nWcE&q=EgQw09MgGLL1s9MGIjChi3jpzh3_35TNexnfCjqZZUMvzd23otzStonM1v_lRybR7dqQ6mvcudJtnIZNPi0yAnJSWgFD)
-2026-07-31 19:42:43,719 - debug - URL Streams https://www.youtube.com/@LofiGirl/live: {}
+2026-07-31 22:09:38,954 - debug - URL Streams https://www.youtube.com/@Coulthard_Channel/live: {}
+2026-07-31 22:09:39,756 - debug - URL Streams https://www.youtube.com/watch?v=QvYlXT8nWcE: {}
+2026-07-31 22:09:40,557 - debug - URL Streams https://www.youtube.com/@LofiGirl/live: {}
